@@ -9,7 +9,7 @@ This is a repository to show how to crack the license on Sublime Text Build 3143
 
 * Select **Enter License**
 
-* Then **paste** given **KEY** given at bottom (or can be found ![here](https://github.com/Darth4212/SublimeText3Crack/blob/master/CrackedLicense.c) )
+* Then **paste** given **KEY** given at bottom (or can be found ![here](https://github.com/Darth4212/SublimeText3Crack/blob/master/CrackedLicense.c))
 
 * Finally click on **Use License**
 
