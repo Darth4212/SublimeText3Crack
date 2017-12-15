@@ -19,7 +19,7 @@ This is a repository to show how to crack the license on Sublime Text Build 3143
 Also able to be found ![here](https://github.com/Darth4212/SublimeText3Crack/blob/master/CrackedLicense.c)
 
 
-```c
+```
 —– BEGIN LICENSE —–
 TwitterInc
 200 User License
